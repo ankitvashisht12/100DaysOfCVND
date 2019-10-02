@@ -28,3 +28,11 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 :heavy_check_mark: Studied about **Fourier Transformation (FT)** used to detect frequency component of an image by applying *fast fourier transformation*.
 
 :heavy_check_mark: Studied about widely used **Canny Edge Detection** algorithm.
+
+## Day 4/100 (October 2, 2019):
+
+:heavy_check_mark: Completed till *Lecture 23* of **Lesson 5** of Intro to CV.
+
+:heavy_check_mark: Studied about Hough Line transformation ( Image coordinate space to Hough Space ) and done practical of Hough line detection using `cv2.HoughLinesP()` method of OpenCV library.
+
+:heavy_check_mark: Studied about Haar Cascade algorithm.
