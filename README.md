@@ -36,3 +36,16 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 :heavy_check_mark: Studied about Hough Line transformation ( Image coordinate space to Hough Space ) and done practical of Hough line detection using `cv2.HoughLinesP()` method of OpenCV library.
 
 :heavy_check_mark: Studied about Haar Cascade algorithm.
+
+## Day 5/100 (October 3, 2019):
+
+:heavy_check_mark: Applied Haar Cascade Face detection using `cv2.CascadeClassifier('./haarcascade_frontalface_default.xml')`
+
+:heavy_check_mark: Danger of Biased Model and working to eliminate bias
+
+:heavy_check_mark: Studied about Types of Features : 
+                   1. Color feature
+                   2. Shape feature
+                   
+:heavy_check_mark: Completed **Lesson 5** of Intro to CV.
+
