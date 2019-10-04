@@ -49,3 +49,23 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
                    
 :heavy_check_mark: Completed **Lesson 5** of Intro to CV.
 
+## Day 6/100 (October 4, 2019):
+
+:heavy_check_mark: Completed **Lesson 6** of Intro to CV.
+
+:heavy_check_mark: Studied about Types of features :
+* Edges
+* Corners
+* Blobs
+                           
+:heavy_check_mark: Studied about dilation and Erosion
+- opening : Erosion followed by Dilation.
+- closing : Dilation followed by Erosion.
+
+:heavy_check_mark: Studied about Image Segmentation
+- Image contours
+- orientation
+- Bounding rectangle
+                          
+:heavy_check_mark: Studied and implemented KMean Clustering for image segmentation.
+
