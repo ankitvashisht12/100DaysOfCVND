@@ -69,3 +69,16 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
                           
 :heavy_check_mark: Studied and implemented KMean Clustering for image segmentation.
 
+## Day 7/100 (October 5, 2019):
+
+:heavy_check_mark: Started **Lesson 7** of Intro to CV
+
+:heavy_check_mark: Studied about Feature vector which is simply set of unique features of an image.
+
+:heavy_check_mark: Studied about **ORB** ( Oriented FAST and Rotated BRIEF ) algorithm.
+- Feature detection and vector creation algorithm.
+- **Keypoints** : *Small region in an image that is particularly distinctive.* Example - Corners.
+
+
+
+
