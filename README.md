@@ -80,5 +80,9 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 - **Keypoints** : *Small region in an image that is particularly distinctive.* Example - Corners.
 
 
+## Day 8/100 (October 6, 2019):
 
+:heavy_check_mark: Revised Previous Lessons 
+
+:heavy_check_mark: Studied about YOLO (You Only Look Once) algorithm for object detection
 
