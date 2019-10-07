@@ -86,3 +86,11 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Studied about YOLO (You Only Look Once) algorithm for object detection
 
+## Day 9/100 (October 7, 2019):
+
+:heavy_check_mark: Started **Lesson 8** of Intro to CV.
+
+:heavy_check_mark: Studied about VGG-16 CNN architecture.
+
+:heavy_check_mark: Completed Car detection and localization on drive.ai dataset.
+
