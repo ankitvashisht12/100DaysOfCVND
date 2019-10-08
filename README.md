@@ -94,3 +94,12 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Completed Car detection and localization on drive.ai dataset.
 
+## Day 10/100 (October 8, 2019):
+
+:heavy_check_mark: Had 1:1 meeting with mentor 🤩
+
+:heavy_check_mark: Working on Facial Keypoint Project
+
+:heavy_check_mark: Studied about One Shot learning, Slamese Network and Triplet loss
+
+
