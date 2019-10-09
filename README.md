@@ -102,4 +102,12 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Studied about One Shot learning, Slamese Network and Triplet loss
 
+## Day 11/100 (October 9, 2019):
+
+:heavy_check_mark: Studied about Neural Style Transfer
+- Cost Function : `J(C,S,G) = aplha * J(C,F) + beta * J(S,G)`
+- Studied about Style Matrix / Gram Matrix
+
+:heavy_check_mark: Revised ORB Algorithm
+
 
