@@ -110,4 +110,14 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Revised ORB Algorithm
 
+## Day 12/100 (October 10, 2019):
 
+:heavy_check_mark: Completed **Module 2 : Cloud Computing** 
+
+![Cloud Computing Section](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Cloud%20Computing.png)
+
+:heavy_check_mark: Completed **Module 1 : Application of Computer Vision** in ExtraCurriculum Section
+
+:heavy_check_mark: Studied and implemented Neural Network in Pytorch
+
+![Module 1 and 2](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Module%201%20and%202.png)
