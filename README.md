@@ -122,7 +122,7 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 ![Module 1 and 2](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Module%201%20and%202.png)
 
-## Day 13/100 (October , 2019):
+## Day 13/100 (October 11, 2019):
 
 :heavy_check_mark: Working on facial keypoint detection project
 
