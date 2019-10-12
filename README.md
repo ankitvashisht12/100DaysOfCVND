@@ -126,3 +126,11 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Working on facial keypoint detection project
 
+## Day 14/100 (October 12, 2019):
+
+:heavy_check_mark: Working on Facial keypoint detection project
+
+:heavy_check_mark: Completed Neural Style Transfer Assignment
+
+
+
