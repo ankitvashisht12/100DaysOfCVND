@@ -132,5 +132,13 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Completed Neural Style Transfer Assignment
 
+## Day 15/100 (October 13, 2019):
+
+:heavy_check_mark: Completed half of **Lesson 8** from Intro to CV
+
+:heavy_check_mark: Implemented CNN notebook in pytorch
+
+:heavy_check_mark: Completed Face verification and Face recognition Assignment
+
 
 
