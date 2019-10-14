@@ -140,5 +140,7 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Completed Face verification and Face recognition Assignment
 
+## Day 16/100 (October 14, 2019):
 
+:heavy_check_mark: Building my Pytorch skills
 
