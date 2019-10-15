@@ -144,3 +144,7 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Building my Pytorch skills
 
+## Day 17/100 (October 15, 2019):
+
+:heavy_check_mark: Working on Project
+
