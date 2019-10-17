@@ -154,4 +154,9 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Completed Untill Lecture 7 of **Deep Learning with PyTorch** Section.
 
+## Day 19/100 (October 17, 2019):
+
+:heavy_check_mark: Going through lectures of **Deep Learning with PyTorch** Section. 
+
+
 
