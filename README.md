@@ -164,5 +164,12 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Implemented Transfer learning in PyTorch
 
+## Day 21/100 (October 19, 2019):
+
+:heavy_check_mark: Completed till lecture 25 of **Lesson 8 : CNN layers and Feature Viz** of Intro to CV.
+
+:heavy_check_mark: Implemented CNN layers , dropout layer and Feature viz in Pytorch.
+
+
 
 
