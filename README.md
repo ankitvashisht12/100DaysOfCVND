@@ -170,6 +170,14 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Implemented CNN layers , dropout layer and Feature viz in Pytorch.
 
+## Day 22/100 (October 20, 2019):
+
+:heavy_check_mark: Completed **Lesson 8 : CNN layers and Feature Viz** of Intro to CV.
+
+:heavy_check_mark: Completed `model.py` file.
+
+:heavy_check_mark: Working on Project.
+
 
 
 
