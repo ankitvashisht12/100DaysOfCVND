@@ -178,6 +178,15 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Working on Project.
 
+## Day 23/100 (October 21, 2019):
+
+:heavy_check_mark: Working on Notebook 2 of Project.
+
+:heavy_check_mark: Completed **Lesson 10**
+
+
+
+
 
 
 
