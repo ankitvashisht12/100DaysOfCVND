@@ -185,7 +185,11 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 :heavy_check_mark: Completed **Lesson 10**
 
 
+## Day 24/100 (October 22, 2019):
 
+:heavy_check_mark: Working on Notebook 2 of Project (Improving Network accuracy).
+
+:heavy_check_mark: Reading articles on [Activation Function](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6), [Batch Normalization](https://medium.com/deeper-learning/glossary-of-deep-learning-batch-normalisation-8266dcd2fa82) and [Loss Functions in PyTorch](https://medium.com/udacity-pytorch-challengers/a-brief-overview-of-loss-functions-in-pytorch-c0ddb78068f7).
 
 
 
