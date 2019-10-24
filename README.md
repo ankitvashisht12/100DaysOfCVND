@@ -204,5 +204,11 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 - Faster R-CNN (Region Proposal Network).
 
 
+## Day 26/100 (October 24, 2019):
+
+:heavy_check_mark: Updated CNN network architecture.
+
+:heavy_check_mark: Read [Facial Key Points Detection using Deep
+Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf) paper 
 
 
