@@ -211,4 +211,15 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 :heavy_check_mark: Read [Facial Key Points Detection using Deep
 Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf) paper 
 
+## Day 27/100 (October 25, 2019):
+
+:heavy_check_mark: Working on Notebook 3 of Project.
+
+:heavy_check_mark: Completed **Introduction to Computer Vision** :100:
+
+:heavy_check_mark: Completed *60%* of Lesson 2 : YOLO of **Advanced Computer Vision & Deep Learning**.
+
+:heavy_check_mark: Working on Assignment 1 (RNN) of Sequence Models Course by deeplearning.ai
+
+
 
