@@ -221,5 +221,12 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Working on Assignment 1 (RNN) of Sequence Models Course by deeplearning.ai
 
+## Day 28/100 (October 26, 2019):
+
+:heavy_check_mark: Completed Project 1 :100:
+
+:heavy_check_mark: Completed *Lesson 2 : YOLO* of **Advanced Computer Vision & Deep Learning**.
+
+:heavy_check_mark: Implemented YOLO Algorithm for object detection and localization.
 
 
