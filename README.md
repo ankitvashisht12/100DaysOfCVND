@@ -229,4 +229,13 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Implemented YOLO Algorithm for object detection and localization.
 
+## Day 29/100 (October 27, 2019):
+
+:heavy_check_mark: Successfully got Reviewed and Passed **Project #1 Facial Keypoint detection**.
+
+:heavy_check_mark: Studied Lesson 3 : RNN (19% Completed)
+
+:sparkles: **Happy Diwali to all of you** :tada::boom:
+
+
 
