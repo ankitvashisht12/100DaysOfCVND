@@ -237,5 +237,13 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :sparkles: **Happy Diwali to all of you** :tada::boom:
 
+## Day 30/100 (October 28, 2019):
+
+:heavy_check_mark: Successfully Completed **Udacity #30 Days Pledge** :sunglasses:
+
+:heavy_check_mark: Continued Lesson 3: RNN (38% Completed). Studied about - 
+- FeedForward
+- Backprop
+- Activation functions
 
 
