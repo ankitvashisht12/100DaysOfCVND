@@ -189,6 +189,8 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Working on Notebook 2 of Project (Improving Network accuracy).
 
+![Average Training Loss](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Project%20%231%20training%20Loss.png)
+
 :heavy_check_mark: Reading articles on [Activation Function](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6), [Batch Normalization](https://medium.com/deeper-learning/glossary-of-deep-learning-batch-normalisation-8266dcd2fa82) and [Loss Functions in PyTorch](https://medium.com/udacity-pytorch-challengers/a-brief-overview-of-loss-functions-in-pytorch-c0ddb78068f7).
 
 ## Day 25/100 (October 23, 2019):
@@ -208,12 +210,17 @@ Track of 100 Days of Udacity Computer Vision Nanodegree (CVND) and #30DaysOfUdac
 
 :heavy_check_mark: Updated CNN network architecture.
 
+![Result with Updated CNN Network](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Facial_keypoint_detection_result.png)
+
 :heavy_check_mark: Read [Facial Key Points Detection using Deep
 Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf) paper 
 
 ## Day 27/100 (October 25, 2019):
 
 :heavy_check_mark: Working on Notebook 3 of Project.
+
+![Result](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Facial%20Key%20Point%20Detection%20Result%20(Test%20Image).png)
+
 
 :heavy_check_mark: Completed **Introduction to Computer Vision** :100:
 
@@ -225,21 +232,37 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Completed Project 1 :100:
 
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Project%20Submitted.png)
+
 :heavy_check_mark: Completed *Lesson 2 : YOLO* of **Advanced Computer Vision & Deep Learning**.
 
 :heavy_check_mark: Implemented YOLO Algorithm for object detection and localization.
 
 ## Day 29/100 (October 27, 2019):
 
+
 :heavy_check_mark: Successfully got Reviewed and Passed **Project #1 Facial Keypoint detection**.
 
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Project%20%231%20Review%20By%20Udacity%20Reviewer.png)
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Facial%20Keypoint%20Detection%20Project%20Passed%20Successfully.png)
+
+
 :heavy_check_mark: Studied Lesson 3 : RNN (19% Completed)
+
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/RNN%2019%25%20Completed.png)
+
 
 :sparkles: **Happy Diwali to all of you** :tada::boom:
 
 ## Day 30/100 (October 28, 2019):
 
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/30DaysChallenge.png)
+
 :heavy_check_mark: Successfully Completed **Udacity #30 Days Pledge** :sunglasses:
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Udacity%20Encouragement.png)
 
 :heavy_check_mark: Continued Lesson 3: RNN (38% Completed). Studied about - 
 - FeedForward
@@ -248,10 +271,14 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 ## Day 31/100 (October 29, 2019):
 
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Folded%20and%20UnFolded%20Model.png)
+
 :heavy_check_mark: Completed Lesson 3: RNN :100:
 - BackProp through time (BPTT)
 - Simple RNN/ Elman Network
 - Folded and Un-Folded Model
+
+
 
 :heavy_check_mark: Learning Lesson 4: LSTM
 
