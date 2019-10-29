@@ -251,6 +251,7 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 :heavy_check_mark: Completed Lesson 3: RNN :100:
 - BackProp through time (BPTT)
 - Simple RNN/ Elman Network
+- Folded and Un-Folded Model
 
 :heavy_check_mark: Learning Lesson 4: LSTM
 
