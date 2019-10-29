@@ -246,4 +246,11 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 - Backprop
 - Activation functions
 
+## Day 31/100 (October 29, 2019):
+
+:heavy_check_mark: Completed Lesson 3: RNN :100:
+- BackProp through time (BPTT)
+- Simple RNN/ Elman Network
+
+:heavy_check_mark: Learning Lesson 4: LSTM
 
