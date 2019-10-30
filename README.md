@@ -278,7 +278,21 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 - Simple RNN/ Elman Network
 - Folded and Un-Folded Model
 
-
-
 :heavy_check_mark: Learning Lesson 4: LSTM
+
+## Day 32/100 (October 30, 2019):
+
+:heavy_check_mark: Submitted **Project #2 Github Optimization**. :sunglasses:
+
+![Github Project Submission](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/github%20project%20submitted.png)
+
+:heavy_check_mark: Learned a lot about LSTM (Long Short Term Memory):
+- `nn.LSTM()`
+- Learn Gate
+- Forget Gate
+- Remember Gate
+- Use Gate
+
+:heavy_check_mark: Implemented LSTM in Notebook
+
 
