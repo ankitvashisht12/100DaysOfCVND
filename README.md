@@ -295,4 +295,7 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Implemented LSTM in Notebook
 
+:heavy_check_mark: Successfully passed **Project #2**.
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Completed%20Project%202.png)
 
