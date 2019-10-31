@@ -299,3 +299,9 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 ![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Completed%20Project%202.png)
 
+## Day 33/100 (October 31, 2019):
+
+:heavy_check_mark:  Completed **Lesson 4: LSTM**.
+
+:heavy_check_mark: Completed *mini-project :* Character-level LSTM. 
+
