@@ -305,3 +305,18 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Completed *mini-project :* Character-level LSTM. 
 
+## Day 34/100 (November 1, 2019):
+
+:heavy_check_mark: Completed **Lesson 5: Hypterparameter**.
+
+:heavy_check_mark: 2 types of Hyperparameters 
+- Optimizer Hyperparameters
+    - Ex: learning rate, mini-batch size, epochs / number of iterations.
+- Model Hypterparameters
+    - Ex: No. of hidden units, No. of layers in model ( Network architecture )
+
+:heavy_check_mark: Studied about recommended range of values of learning rate, mini-batch size, epochs. Got tips on Model hyperparameters and how to avoid overfitting and underfitting.
+
+
+
+
