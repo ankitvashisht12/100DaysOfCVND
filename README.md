@@ -317,6 +317,8 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Studied about recommended range of values of learning rate, mini-batch size, epochs. Got tips on Model hyperparameters and how to avoid overfitting and underfitting.
 
+## Day 35/100 (November 2, 2019):
 
+:heavy_check_mark: Started **Lesson 6: Attention**. 
 
 
