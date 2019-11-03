@@ -321,4 +321,12 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Started **Lesson 6: Attention**. 
 
+## Day 36/100 (November 3, 2019):
+
+:heavy_check_mark: Jumped to **Sentiment Analysis** lesson as suggested in Lesson 6 : Attention ( for better understanding of word embedding)
+
+:heavy_check_mark: Completed mini-project 1 and 2
+
+
+
 
