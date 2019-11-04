@@ -327,6 +327,12 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Completed mini-project 1 and 2
 
+## Day 37/100 (November 4, 2019):
 
+:heavy_check_mark: Completed mini-project 3 and 4 of **Lesson : Sentiment Analysis**.
+
+:heavy_check_mark: Working on mini-project 5
+
+:heavy_check_mark: Completed **Assignment 2 : Dinosaur Island - Character level language model** of Sequence Model Course.
 
 
