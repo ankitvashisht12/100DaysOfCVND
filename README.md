@@ -335,4 +335,13 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Completed **Assignment 2 : Dinosaur Island - Character level language model** of Sequence Model Course.
 
+## Day 38/100 (November 5, 2019):
+
+:heavy_check_mark: Working on mini-project 5
+
+:heavy_check_mark: Completed **Assignment 3 : Jazz improvisation with LSTM** of Sequence Model Course.
+- Synthesized Jazz music using LSTM.
+
+
+
 
