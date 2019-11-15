@@ -342,6 +342,10 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 :heavy_check_mark: Completed **Assignment 3 : Jazz improvisation with LSTM** of Sequence Model Course.
 - Synthesized Jazz music using LSTM.
 
+> *9 Days Missed (From 6 November 2019 to 14 November 2019) due to Medical Condition*
 
+## Day 39/100 (November 15,2019):
+
+:heavy_check_mark: Completed Lesson 7 : Image Captioning.
 
 
