@@ -348,4 +348,13 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Completed Lesson 7 : Image Captioning.
 
+> *BREAK due to External Reasons*
+
+## Day 40/100 (November 27,2019):
+
+:heavy_check_mark: Working on Project #3 
+
+
+
+
 
