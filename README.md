@@ -357,7 +357,9 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 ## Day 41/100 (November 28,2019):
 
 :heavy_check_mark: Completed Video Material on Project #4.
+
 :heavy_check_mark: Working on **Project #3** - `model.py` file.
+
 :heavy_check_mark: Will Submit **Project #4** tommorow for evaluation.
 
 
