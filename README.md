@@ -362,5 +362,9 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Will Submit **Project #4** tommorow for evaluation.
 
+## Day 42/100 (November 29,2019):
 
+:heavy_check_mark: Submitted **Project #4**.
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/LinkedIn%20Project.png)
 
