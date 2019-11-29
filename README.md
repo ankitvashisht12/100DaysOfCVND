@@ -295,4 +295,72 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Implemented LSTM in Notebook
 
+:heavy_check_mark: Successfully passed **Project #2**.
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Completed%20Project%202.png)
+
+## Day 33/100 (October 31, 2019):
+
+:heavy_check_mark:  Completed **Lesson 4: LSTM**.
+
+:heavy_check_mark: Completed *mini-project :* Character-level LSTM. 
+
+## Day 34/100 (November 1, 2019):
+
+:heavy_check_mark: Completed **Lesson 5: Hypterparameter**.
+
+:heavy_check_mark: 2 types of Hyperparameters 
+- Optimizer Hyperparameters
+    - Ex: learning rate, mini-batch size, epochs / number of iterations.
+- Model Hypterparameters
+    - Ex: No. of hidden units, No. of layers in model ( Network architecture )
+
+:heavy_check_mark: Studied about recommended range of values of learning rate, mini-batch size, epochs. Got tips on Model hyperparameters and how to avoid overfitting and underfitting.
+
+## Day 35/100 (November 2, 2019):
+
+:heavy_check_mark: Started **Lesson 6: Attention**. 
+
+## Day 36/100 (November 3, 2019):
+
+:heavy_check_mark: Jumped to **Sentiment Analysis** lesson as suggested in Lesson 6 : Attention ( for better understanding of word embedding)
+
+:heavy_check_mark: Completed mini-project 1 and 2
+
+## Day 37/100 (November 4, 2019):
+
+:heavy_check_mark: Completed mini-project 3 and 4 of **Lesson : Sentiment Analysis**.
+
+:heavy_check_mark: Working on mini-project 5
+
+:heavy_check_mark: Completed **Assignment 2 : Dinosaur Island - Character level language model** of Sequence Model Course.
+
+## Day 38/100 (November 5, 2019):
+
+:heavy_check_mark: Working on mini-project 5
+
+:heavy_check_mark: Completed **Assignment 3 : Jazz improvisation with LSTM** of Sequence Model Course.
+- Synthesized Jazz music using LSTM.
+
+> *9 Days Missed (From 6 November 2019 to 14 November 2019) due to Medical Condition*
+
+## Day 39/100 (November 15,2019):
+
+:heavy_check_mark: Completed Lesson 7 : Image Captioning.
+
+> *BREAK due to External Reasons*
+
+## Day 40/100 (November 27,2019):
+
+:heavy_check_mark: Working on Project #3 
+
+## Day 41/100 (November 28,2019):
+
+:heavy_check_mark: Completed Video Material on Project #4.
+
+:heavy_check_mark: Working on **Project #3** - `model.py` file.
+
+:heavy_check_mark: Will Submit **Project #4** tommorow for evaluation.
+
+
 
