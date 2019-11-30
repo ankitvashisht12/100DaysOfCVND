@@ -368,3 +368,9 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 ![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/LinkedIn%20Project.png)
 
+## Day 43/100 (November 30,2019):
+
+:heavy_check_mark: Completed **Project #4** Successfully. :star:
+
+:heavy_check_mark: Brainstorming on **Project #3**.
+
