@@ -378,3 +378,6 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Implemented **Character Sequence Model** in Pytorch for better understanding of RNN.
 
+## Day 45/100 (December 2,2019):
+
+:heavy_check_mark: Following [LSTM](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/) article for indepth understanding in Pytorch
