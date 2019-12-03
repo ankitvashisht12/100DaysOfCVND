@@ -381,3 +381,7 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 ## Day 45/100 (December 2,2019):
 
 :heavy_check_mark: Following [LSTM](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/) article for indepth understanding in Pytorch
+
+## Day 46/100 (December 3,2019):
+
+:heavy_check_mark: Completed Lectures 4.1.1 to 4.1.7 
