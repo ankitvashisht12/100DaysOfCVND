@@ -389,3 +389,7 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 ## Day 47/100 (December 4,2019):
 
 :heavy_check_mark: Read [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/pdf/1411.4555.pdf) paper 
+
+## Day 48/100 (December 5,2019):
+
+:heavy_check_mark: Working on Project #3.
