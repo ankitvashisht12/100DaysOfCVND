@@ -393,3 +393,7 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 ## Day 48/100 (December 5,2019):
 
 :heavy_check_mark: Working on Project #3.
+
+## Day 49-50/100 (December 6-7, 2019):
+
+:heavy_check_mark: Working on Project #3
