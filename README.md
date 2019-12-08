@@ -397,3 +397,13 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 ## Day 49-50/100 (December 6-7, 2019):
 
 :heavy_check_mark: Working on Project #3
+
+## Day 51 (December 8, 2019):
+
+:heavy_check_mark: Completed **model.py**.
+
+:heavy_check_mark: Working on Notebooks. Getting lot of errors :)
+
+[Error](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Error_Project_3.png)
+
+:heavy_check_mark: Had a video chat with mentor.
