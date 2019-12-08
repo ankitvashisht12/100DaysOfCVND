@@ -404,6 +404,6 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Working on Notebooks. Getting lot of errors :)
 
-[Error](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Error_Project_3.png)
+![Error](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Error_Project_3.png)
 
 :heavy_check_mark: Had a video chat with mentor.
