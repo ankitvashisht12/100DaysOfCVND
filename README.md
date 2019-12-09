@@ -407,3 +407,15 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 ![Error](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Error_Project_3.png)
 
 :heavy_check_mark: Had a video chat with mentor.
+
+## Day 52 (December 9, 2019):
+
+:heavy_check_mark: Resolved all errors of notebook-1. 
+
+:heavy_check_mark: Training my model for last 3 hours.
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Training_loss_notebook_2_Project_3.png)
+
+:heavy_check_mark: Completed **Lesson 1** and **18% of Lesson 2** of Section 4.
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Section_4_Lesson_2.png)
