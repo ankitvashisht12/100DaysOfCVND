@@ -419,3 +419,10 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 :heavy_check_mark: Completed **Lesson 1** and **18% of Lesson 2** of Section 4.
 
 ![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Section_4_Lesson_2.png)
+
+## Day 53 (December 10, 2019):
+
+:heavy_check_mark: Still training model of Project #3
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/training_day_2.png)
+
