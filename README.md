@@ -398,7 +398,7 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Working on Project #3
 
-## Day 51 (December 8, 2019):
+## Day 51/100 (December 8, 2019):
 
 :heavy_check_mark: Completed **model.py**.
 
@@ -408,7 +408,7 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Had a video chat with mentor.
 
-## Day 52 (December 9, 2019):
+## Day 52/100 (December 9, 2019):
 
 :heavy_check_mark: Resolved all errors of notebook-1. 
 
@@ -420,9 +420,13 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 ![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Section_4_Lesson_2.png)
 
-## Day 53 (December 10, 2019):
+## Day 53/100 (December 10, 2019):
 
 :heavy_check_mark: Still training model of Project #3
 
 ![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/training_day_2.png)
 
+
+## Day 54/100 (December 11,2019):
+
+:heavy_check_mark: Tweaking model's hyperparameters for better accuracy
