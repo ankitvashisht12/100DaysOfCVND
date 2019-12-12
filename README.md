@@ -430,3 +430,7 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 ## Day 54/100 (December 11,2019):
 
 :heavy_check_mark: Tweaking model's hyperparameters for better accuracy
+
+## Day 55/100 (December 12,2019):
+
+:heavy_check_mark: **Exam Day** 
