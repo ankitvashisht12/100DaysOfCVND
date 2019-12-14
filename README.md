@@ -434,3 +434,11 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 ## Day 55/100 (December 12,2019):
 
 :heavy_check_mark: **Exam Day** 
+
+## Day 56/100 (December 13, 2019):
+
+:heavy_check_mark: **Exam**
+
+## Day 57/100 (December 14,2019):
+
+:heavy_check_mark: Studied Probability basics, Probability distribution and Robot Localization :robot:
