@@ -442,3 +442,7 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 ## Day 57/100 (December 14,2019):
 
 :heavy_check_mark: Studied Probability basics, Probability distribution and Robot Localization :robot:
+
+## Day 58/100 (December 15, 2019):
+
+:heavy_check_mark: Iterating and tuning Hyperparameter for better accuracy. Thanks to @ayivima getting perplexity score 20 in 1st epoch :heart_eyes:
