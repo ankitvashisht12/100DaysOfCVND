@@ -452,3 +452,7 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 :heavy_check_mark: Submitted Project 3 : Image Captioning
 
 ![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Project_3_submission.png)
+
+## Day 60/100 (December 17,2019):
+
+:heavy_check_mark: **Exam Day**
