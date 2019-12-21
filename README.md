@@ -453,6 +453,12 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 ![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Project_3_submission.png)
 
-## Day 60/100 (December 17,2019):
+## Day 60-61-62/100 (December 17-18-19,2019):
 
 :heavy_check_mark: **Exam Day**
+
+## Day 63-64/100 (December 20-21, 2019):
+
+:heavy_check_mark: Need some actions to pass Project #3. Continue to change the settings for low perplexity.
+
+:heavy_check_mark: Studied Kalman Filters for tracking, Gaussian Distribution, concept of mean and variance.
