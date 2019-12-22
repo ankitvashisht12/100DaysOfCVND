@@ -462,3 +462,7 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 :heavy_check_mark: Need some actions to pass Project #3. Continue to change the settings for low perplexity.
 
 :heavy_check_mark: Studied Kalman Filters for tracking, Gaussian Distribution, concept of mean and variance.
+
+## Day 65/100 (December 22,2019):
+
+:heavy_check_mark: Training model for hours. Getting perplexity score around 10 
