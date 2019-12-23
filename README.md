@@ -470,4 +470,5 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 ## Day 66/100 (December 23,2019):
 
 :heavy_check_mark: Completed Lesson 4 : Intro to Kalman Filter
+
 :heavy_check_mark: 50% complete Lesson 5: Representing State and Motion
