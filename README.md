@@ -478,3 +478,7 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 :heavy_check_mark: Completed Lesson 5 : Representing State and Motion
 
 :heavy_check_mark: Studied about various state models and state vectors.
+
+## Day 68/100 (December 25,2019):
+
+:heavy_check_mark: Merry Christmas 
