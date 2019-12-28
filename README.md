@@ -469,16 +469,26 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 ## Day 66/100 (December 23,2019):
 
-:heavy_check_mark: Completed Lesson 4 : Intro to Kalman Filter
+:heavy_check_mark: Completed **Lesson 4 : Intro to Kalman Filter**
 
-:heavy_check_mark: 50% complete Lesson 5: Representing State and Motion
+:heavy_check_mark: 50% complete **Lesson 5: Representing State and Motion**
 
 ## Day 67/100 (December 24,2019):
 
-:heavy_check_mark: Completed Lesson 5 : Representing State and Motion
+:heavy_check_mark: Completed **Lesson 5 : Representing State and Motion**
 
 :heavy_check_mark: Studied about various state models and state vectors.
 
 ## Day 68/100 (December 25,2019):
 
 :heavy_check_mark: Merry Christmas 
+
+## Day 69-70/100 (December 26-27,2019):
+
+:heavy_check_mark: Exam
+
+## Day 71/100 (December 28, 2019):
+
+:heavy_check_mark: Completed **Lesson 6: Matrices and Transformations**
+
+
