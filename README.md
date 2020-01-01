@@ -491,4 +491,10 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Completed **Lesson 6: Matrices and Transformations**
 
+## Day 72-73/100 (December 29-30,2019):
 
+:heavy_check_mark: **Exam**
+
+## Day 74/100 (December 31,2019):
+
+:heavy_check_mark: Installing pycocotools and other necessary libraries to train locally.
