@@ -498,3 +498,8 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 ## Day 74/100 (December 31,2019):
 
 :heavy_check_mark: Installing pycocotools and other necessary libraries to train locally.
+
+## Day 75/100 (January 1,2020):
+
+:heavy_check_mark: Completed 66% of Project 5: SLAM
+
