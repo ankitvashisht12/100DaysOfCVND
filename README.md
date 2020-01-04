@@ -491,15 +491,24 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Completed **Lesson 6: Matrices and Transformations**
 
-## Day 72-73/100 (December 29-30,2019):
+## Day 72-73/100 (December 29-30, 2019):
 
 :heavy_check_mark: **Exam**
 
-## Day 74/100 (December 31,2019):
+## Day 74/100 (December 31, 2019):
 
 :heavy_check_mark: Installing pycocotools and other necessary libraries to train locally.
 
-## Day 75/100 (January 1,2020):
+## Day 75/100 (January 1, 2020):
 
-:heavy_check_mark: Completed 66% of Project 5: SLAM
+:heavy_check_mark: Completed 66% of Project 5: Landmark Detection and Robot Tracking
+
+## Day 76-77-78/100 (January 2-3-4, 2020):
+
+![Successful Submission](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Submitted_Project_5.png)
+
+
+![Passed Project 5](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Passed_Project_5.png)
+
+:heavy_check_mark: Successfully submitted and Passed Project 5 : Landmark Detection and Robot Tracking
 
