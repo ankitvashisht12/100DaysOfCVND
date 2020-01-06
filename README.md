@@ -512,3 +512,28 @@ Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 :heavy_check_mark: Successfully submitted and Passed Project 5 : Landmark Detection and Robot Tracking
 
+## Day79/100 (January 5,2020):
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Model_perplexity_score.png)
+
+:heavy_check_mark: Trained Image captioning Model 
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Model_prediction.png)
+
+:heavy_check_mark: My model is working perfectly (giving correct captions)
+
+:heavy_check_mark: Submitted Project 2 (last project in my CVND)
+
+## Day 80/100 (January 6,2020):
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Happy_Moment.png)
+
+:heavy_check_mark: Graduated from **Computer Vision Nanodegree Program**
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/Congratulation_Page.png)
+
+![](https://github.com/ankitvashisht12/100DaysOfCVND/blob/master/images/CVND_Certificate.png)
+
+
+
+#                          :fire: :sunglasses: :heart_eyes: Successfully Graduated from CVND :heart_eyes: :sunglasses: :fire:
